@@ -1,4 +1,4 @@
-# Fruad-Detection
+# Fraud-Detection
 # Problem Formulation
 Due to the private nature of financial data, there is a lack of publicly available datasets that can be used for analysis. In this project, a synthetic dataset, publicly available on Kaggle, generated using a simulator called PaySim is used. The dataset was generated using aggregated metrics from the private dataset of a multinational mobile financial services company.
 
